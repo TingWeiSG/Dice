@@ -1,6 +1,6 @@
 # Dice
 This is a sample of what I've learnt on DataCamp thus far.
-For this, you will need matplotlib.pyplot and numby
+For this, you will need numpy and matplotlib.
 
 Imagine you are walking up a high rise building, and you are playing a game with your friend.
 
